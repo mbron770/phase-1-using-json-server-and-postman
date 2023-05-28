@@ -9,6 +9,46 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 4
+    },
+    {
+      "title": "fourth Article",
+      "content": "Another example!",
+      "id": 5
+    },
+    {
+      "title": "fifth Article",
+      "content": "Another example!",
+      "id": 6
+    },
+    {
+      "title": "sixth Article",
+      "content": "Another example!",
+      "id": 7
+    },
+    {
+      "title": "seventh Article",
+      "content": "Another example!",
+      "id": 8
+    },
+    {
+      "title": "eighth Article",
+      "content": "Another example!",
+      "id": 9
+    },
+    {
+      "title": "ninth Article",
+      "content": "Another example!",
+      "id": 10
+    },
+    {
+      "title": "tenth Article",
+      "content": "Another example!",
+      "id": 11
     }
   ]
 }
